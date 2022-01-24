@@ -7,7 +7,7 @@
 
 </br>
 
-#### [Click here to ask or suggest anything about my repositories!](https://github.com/somekindofwallflower/somekindofwallflower/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br>
+#### [Click here to ask or suggest anything about my repositories!](https://github.com/madushan97/madushannipuna/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br>
 
 
 
