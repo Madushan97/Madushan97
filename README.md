@@ -7,7 +7,9 @@
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madushan97&show_icons=true&theme=dark)
+#### [Click here to ask or suggest anything about my repositories!](https://github.com/somekindofwallflower/somekindofwallflower/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br>
+
+
 
 <h3 align="left">Connect with me :)</h3>
 <p align="left">
@@ -21,6 +23,7 @@
 </p>
 
 <p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madushan97&show_icons=true&theme=dark)
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=madushan97&show_icons=true&locale=en&theme=radical"                alt="madushannipuna"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=madushan97&theme=radical" alt="madushannipuna" />
 </p>
