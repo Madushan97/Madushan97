@@ -33,19 +33,12 @@
 
 </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madushan97&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madushan97&exclude_repo=github-readme-stats,madushannipuna.github.io)](https://github.com/Madushan97/github-readme-stats)
 
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-<a href="https://github.com/madushan97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madushan97&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/madushan97/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madushan97&repo=convoychat" />
-</a>
 
 <br/>
 <h3 align="center">
