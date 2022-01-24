@@ -2,8 +2,9 @@
 <h3 align="center"> Hi there, I'm Madushan Nipuna, A passionate Web developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning NextJs and Django 
-- 🥅 2022 Goals: Contribute more to Open Source projects expand my Skills with javascript and python
+- 🥅 2022 Goals: Contribute more to Open Source projects, expand my Skills with javascript and python
 - ⚡ Fun fact: I love to draw and play cricket
+- 💬 Ask me about **React, Django**
 
 </br>
 
@@ -20,6 +21,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> 
+    <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=madushan97&show_icons=true&locale=en&theme=dark"                alt="madushannipuna"/>
