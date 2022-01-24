@@ -9,8 +9,6 @@
 
 #### [Click here to ask or suggest anything about my repositories!](https://github.com/madushan97/madushan97/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br>
 
-
-
 <h3 align="left">Connect with me :)</h3>
 <p align="left">  
 <a href="https://codepen.io/madushan97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>  
@@ -25,7 +23,7 @@
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=madushan97&show_icons=true&locale=en&theme=dark"                alt="madushannipuna"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=madushan97&theme=radical" alt="madushannipuna" />
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=madushan97&theme=dark" alt="madushannipuna" />
 </p>
 
 <!-- <p align="center"> 
@@ -34,11 +32,6 @@
 </p> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madushan97&exclude_repo=github-readme-stats,madushannipuna.github.io)](https://github.com/Madushan97/github-readme-stats)
-
-# Contributions
-(in the last 365 days, languages pie based on number of commits)
-
-![](./profile-3d-contrib/profile-night-green.svg)
 
 <br/>
 <h3 align="center">
