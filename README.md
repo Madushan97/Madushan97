@@ -10,6 +10,8 @@
 
 #### [Click here to ask or suggest anything about my repositories!](https://github.com/madushan97/madushan97/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br>
 
+<p><a href="https://ko-fi.com/madushannipuna97"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MadushanNipuna" /></a></p><br><br>
+
 <h3 align="left">Connect with me :)</h3>
 </br>
 <p align="left">  
