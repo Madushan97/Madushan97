@@ -29,7 +29,7 @@
 </p>
 
 <!-- <p align="center"> 
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madushan97&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madushan97&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
 </p> -->
 
 # Contributions
