@@ -11,6 +11,7 @@
 #### [Click here to ask or suggest anything about my repositories!](https://github.com/madushan97/madushan97/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br>
 
 <h3 align="left">Connect with me :)</h3>
+</br>
 <p align="left">  
 <a href="https://codepen.io/madushan97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>  
 <a href="https://twitter.com/MadushanNipuna2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>  
@@ -21,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+</br>
 <p align="left"> 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
