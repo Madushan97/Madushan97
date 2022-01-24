@@ -12,8 +12,7 @@
 
 
 <h3 align="left">Connect with me :)</h3>
-<p align="left">
-  
+<p align="left">  
 <a href="https://codepen.io/madushan97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>  
 <a href="https://twitter.com/wallflower408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/17074530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>  
@@ -22,8 +21,20 @@
 <a href="https://discord.gg/wallflower#7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>  
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madushan97&show_icons=true&theme=dark)
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=madushan97&show_icons=true&locale=en&theme=radical"                alt="madushannipuna"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=madushan97&show_icons=true&locale=en&theme=dark"                alt="madushannipuna"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=madushan97&theme=radical" alt="madushannipuna" />
 </p>
+
+<!-- <p align="center"> 
+  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madushan97&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+</p> -->
+
+# Contributions
+(in the last 365 days, languages pie based on number of commits)
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<br/>
