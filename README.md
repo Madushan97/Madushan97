@@ -2,10 +2,8 @@
 
 ## I'm a Developer, Undergraduate and Student!!
 
-- 🔭 I just finished my first E-commerce
 - 🌱 I’m currently learning NextJs and Django 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and develop a Auction
+- 🥅 2022 Goals: Contribute more to Open Source projects expand my Skills with javascript and python
 - ⚡ Fun fact: I love to draw and play cricket
 
 </br>
